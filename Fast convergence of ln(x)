@@ -1,4 +1,10 @@
 #Task 4
+
+from matplotlib.pyplot import *
+from numpy import *
+from matplotlib import pyplot as plt
+
+
 x = float(input("x="))
 n = 10
 
